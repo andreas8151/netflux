@@ -1,3 +1,8 @@
+Netflix Lookalike
+--------------
+
+This is a fun web application that resembles the look and feel of the popular streaming service Netflix. It is built using React.js and calls an API to retrieve movie data. Users can browse movies, search for movies by title.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
